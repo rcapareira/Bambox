@@ -3264,13 +3264,12 @@ input, select, textarea {
 			}
 
 			.image.main.prototype {
-				width: 100%;
-				/* Makes it scale better on smaller screens */
+				height: 16em;
+				width: auto;
+				transform: translateX(100px);
 		
 			}
-						
-						
-
+							
 	}
 
 /* XSmall */
