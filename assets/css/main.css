@@ -2213,12 +2213,12 @@ input, select, textarea {
 
 		.image.main.prototype{
 			display: block;
-			height: 35em;
-			width: 52em;
+			height: 40em;
+			width: 54em;
 			border-radius: 0;
-			object-fit: fill;
 			translate: -100px;
-
+			max-width: 120%;
+			object-fit: cover;
 		}
 		
 
