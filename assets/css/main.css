@@ -3263,6 +3263,14 @@ input, select, textarea {
 				transform: translateX(-17em);
 			}
 
+			.image.main.prototype {
+				width: 90%;
+				/* Makes it scale better on smaller screens */
+		
+			}
+						
+						
+
 	}
 
 /* XSmall */
