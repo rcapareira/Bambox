@@ -3264,7 +3264,7 @@ input, select, textarea {
 			}
 
 			.image.main.prototype {
-				width: 90%;
+				width: 100%;
 				/* Makes it scale better on smaller screens */
 		
 			}
